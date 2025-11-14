@@ -1,3 +1,7 @@
+# pnet-data-api 2.12.4
+
+- Add userRef to persons.
+
 # pnet-data-api 2.12.0
 
 - Update dependencies
